@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26153
+* **Problem Statement Title:** AI based Network Attack Forecasting from Network Traffic Data
+* **Theme / Category:** Blockchain & Cybersecurity/ software
+* **Ministry / Organization:** National Technical Research Organisation (NTRO)
